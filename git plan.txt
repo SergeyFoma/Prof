@@ -1,12 +1,16 @@
 table profession
 1. name (slesar, svarchik, stropalchik, tokar)
-2. slug
+
 
 table personal
 1. first_name
 2. name
 3. last_name
-4. profession - ForeignKey
+4. profession_osn - ForeignKey
 5. razryad
 6. birth_year
 7. year_company
+
+table profession_sovm
+1. ForeignKey - personal
+2. ForeignKey - professions
