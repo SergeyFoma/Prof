@@ -1,0 +1,46 @@
+Python, Django, FastAPI, PostgreSQL, Celery, Redis
+
+знание Kubernetes; Redis; Socket.io;
+опыт работы с парсингом;
+умение разбираться в чужом коде;
+
+Python
+SQL
+Docker
+PostgreSQL
+Backend
+Celery
+FastAPI
+Redis
+Git
+Django Framework
+
+ChatGPT, GitHub Copilot, Cursor, Codeium
+Навыки построения дашбордов (Power BI, DataLens, Metabase).
+Опыт разработки Telegram-ботов.
+Опыт работы с фоновыми задачами (cron, Celery, Airflow, n8n).
+
+Ключевые навыки
+Python
+PostgreSQL
+Docker
+GitHub
+API
+Рефакторинг кода
+Анализ кода
+Работа с базами данных
+Алгоритмы и структуры данных
+REST API
+JSON API
+Cursor
+Codex
+Claude
+Оптимизация кода
+
+ExtJS 3., JS, React, Docker, Практический опыт настройки и использования CI/CD в GitLab, веренное владение Linux на уровне администрирования серверов и написания bash-скриптов, Знание SQL (PostgreSQL) и опыт работы с ORM (Django ORM).
+Опыт работы с очередями задач (Celery, RQ).
+• Знакомство с сетевыми протоколами (HTTP, WebSocket, EGTS).
+• Опыт работы с картографическими данными (OpenStreetMap, geopy, PostGIS)
+• Понимание основ мониторинга (Sentry).
+• Опыт работы с большими объемами данных в реальном времени.
+

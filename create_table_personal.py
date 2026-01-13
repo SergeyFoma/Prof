@@ -3,13 +3,13 @@ from func_create_table import create_table
 
 table_create = """
     CREATE TABLE IF NOT EXISTS personal(
-    id SERIAL PRIMARY KEY,
+    personal_id SERIAL PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
     name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
-    profession_id INT,
+    profession_id INT NOT NULL,
     FOREIGN KEY (profession_id) REFERENCES professions(profession_id),
-    razryad INT,
+    razryad INT NOT NULL,
     birth_year VARCHAR(50) NOT NULL,
     year_company VARCHAR(50) NOT NULL
 );
