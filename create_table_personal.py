@@ -17,7 +17,4 @@ table_create = """
 
 # create_connect('sm_app', 'sm_app_user', '2105', '127.0.0.1', '5432')
 
-create_table(
-    connect_db("prof_db", "prof", "2105", "127.0.0.1", "5432"),
-    table_create
-)
+create_table(connect_db("prof_db", "prof", "2105", "127.0.0.1", "5432"), table_create)
